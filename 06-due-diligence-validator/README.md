@@ -1,6 +1,6 @@
 # Supplier Due Diligence Validator
 
-🔗 **[Live Demo](#)** ← update after deployment
+🔗 **[Live Demo](https://ddvalid.streamlit.app/)** ← update after deployment
 
 A financial-sector aligned supplier due diligence validation tool built in Python and Streamlit.
 
