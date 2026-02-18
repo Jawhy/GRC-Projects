@@ -11,10 +11,7 @@
     "risk_owner": "Head of IT Operations",
     "review_date": "2026-01-15",
     "status": "Open",
-    "certifications": [
-      "iso_27001",
-      "soc2_type2"
-    ]
+    "certifications": ["iso_27001", "soc2_type2"]
   },
   {
     "vendor_name": "InsightAI Analytics",
@@ -28,9 +25,7 @@
     "risk_owner": "Chief Risk Officer",
     "review_date": "2026-02-15",
     "status": "In Remediation",
-    "certifications": [
-      "iso_27001"
-    ]
+    "certifications": ["iso_27001"]
   },
   {
     "vendor_name": "SecurePay Gateway",
@@ -44,11 +39,7 @@
     "risk_owner": "Head of Finance",
     "review_date": "2026-06-01",
     "status": "Open",
-    "certifications": [
-      "iso_27001",
-      "pci_dss",
-      "gdpr"
-    ]
+    "certifications": ["iso_27001", "pci_dss", "gdpr"]
   },
   {
     "vendor_name": "HRSoft Solutions",
@@ -62,10 +53,7 @@
     "risk_owner": "HR Director",
     "review_date": "2026-05-10",
     "status": "Accepted",
-    "certifications": [
-      "iso_27001",
-      "iso_42001"
-    ]
+    "certifications": ["iso_27001", "iso_42001"]
   },
   {
     "vendor_name": "DataArchive Co",

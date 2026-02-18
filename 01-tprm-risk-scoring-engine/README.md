@@ -1,6 +1,6 @@
 # TPRM Risk Scoring Engine
 
-🔗 **[Live Demo](https://jawhy-tprm-risk-scoring-engine.streamlit.app)**
+🔗 **[Live Demo](https://tprmdemo.streamlit.app/)**
 
 > Update this link once deployed on Streamlit Cloud
 
