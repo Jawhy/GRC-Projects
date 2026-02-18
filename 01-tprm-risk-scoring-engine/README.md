@@ -1,8 +1,8 @@
 # TPRM Risk Scoring Engine
 
-🔗 **[Live Demo](https://tprmdemo.streamlit.app/)**
+🔗 **[[Live Demo](https://tprmdemo.streamlit.app/)](https://tprmdemo.streamlit.app/)**
 
-> Update this link once deployed on Streamlit Cloud
+
 
 A financial-sector aligned Third-Party Risk Management (TPRM) assessment tool built in Python.
 
