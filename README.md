@@ -12,7 +12,7 @@ Security operations dashboard tracking incidents against SLA thresholds, managin
 
 **Stack:** Python · Streamlit · Groq AI · Matplotlib
 **Frameworks:** ISO 27001 · NIST CSF · CIS Controls · UK GDPR Art.33
-**Repo:** [02-security-incident-tracker](https://github.com/Jawhy/02-security-incident-tracker) | **[Live Demo](#)**
+**Repo:** [02-security-incident-tracker](https://github.com/Jawhy/02-security-incident-tracker) | **[Live Demo](https://incidenttracker.streamlit.app/)**
 
 ---
 
